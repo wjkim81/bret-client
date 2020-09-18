@@ -1,0 +1,10 @@
+{
+    "editor.tabSize": 2,
+  // Enable per-language
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "prettier.singleQuote": true
+}
